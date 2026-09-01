@@ -1,4 +1,6 @@
 greet  = input("Enter your name to greet: ")
-print("Hello,", name, "welcome!")
+print("Hello,", greet, "welcome!")
 
 print("This is pulled")
+
+print("This is modified")
